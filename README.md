@@ -1,2 +1,2 @@
 # Classroom
-HTML template - Landing page "Classroom"
+Landing page "Classroom"
